@@ -15,6 +15,7 @@ This project consists of building a vaccine management system that handles:
   - `d`: Deletes a user's vaccination history.
   - `u`: Lists all vaccinations or those of a specific user.
   - `t`: Updates or retrieves the current system date.
+  - `v`: updates the expiration date of a specific vaccine batch in the system.
 
 ## Constraints
 - Maximum of 1000 vaccine batches.
