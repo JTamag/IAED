@@ -1,6 +1,9 @@
 Project Overview: Vaccine Management System
+
 Key Features:
+
 Registration of Vaccine Batches:
+
   Includes name, batch number, expiration date, and doses.
   Management of Vaccine Applications:
   Tracks users, the batch used, and the application date.
